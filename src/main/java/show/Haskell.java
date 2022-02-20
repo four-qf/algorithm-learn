@@ -6,4 +6,5 @@ package show;
  * @since
  */
 public class Haskell {
+
 }
