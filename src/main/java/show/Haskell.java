@@ -3,7 +3,7 @@ package show;
 /**
  * @author qiux
  * @Date 2022/2/20
- * @since
+ * @since 99乘法表
  */
 public class Haskell {
     public static void main(String[] args) {

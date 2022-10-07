@@ -3,7 +3,7 @@ package show;
 /**
  * @author qiux
  * @Date 2022/2/20
- * @since
+ * @since 质素
  */
 public class PrimeNumber {
 

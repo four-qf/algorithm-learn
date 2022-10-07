@@ -3,7 +3,7 @@ package show;
 /**
  * @author qiux
  * @Date 2022/2/20
- * @since
+ * @since 阶乘
  */
 public class Factorial {
 
