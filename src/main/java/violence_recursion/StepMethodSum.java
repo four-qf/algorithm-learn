@@ -10,6 +10,8 @@ package violence_recursion;
 public class StepMethodSum {
 
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
+        System.out.println(start);
         int n = 7;
         int m = 2;
         int k = 5;
@@ -20,6 +22,9 @@ public class StepMethodSum {
         }
         int stepNum = process(n, m, k, p);
         System.out.println(stepNum);
+        long end = System.currentTimeMillis();
+        System.out.println(end);
+        System.out.println(end - start);
     }
 
     public static int process(int n, int m, int k, int p) {
